@@ -1,7 +1,7 @@
 initialized = True
 
 def main():
-    print("Hello world!")
+    print("what the fuck is this? !")
 
 if __name__ == '__main__':
     main()
